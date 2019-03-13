@@ -1,6 +1,5 @@
 # your code goes here
-#co-coder: Locallize (Fill) 
-
+#co-coder: PaulRiverain
 require 'pry'
 class Person
   attr_accessor :bank_account, :happiness, :hygiene
