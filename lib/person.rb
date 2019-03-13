@@ -1,5 +1,6 @@
 # your code goes here
 #co-coder: PaulRiverain
+# Locallize  (fill)
 require 'pry'
 class Person
   attr_accessor :bank_account, :happiness, :hygiene
